@@ -1,4 +1,4 @@
-Reloj de ajedrez basado en el popular microcontrolador `PIC16F84`, que hicimos entre un amigo y yo durante varios años. Pero en el 2010 fué cuando empezó a agarrar forma. Con este proyecto es que aprendí a programar PIC's, y lo hice en assembler 🤮
+Reloj de ajedrez basado en el popular microcontrolador `PIC16F84`, que hicimos entre un amigo y yo durante varios años. Pero en el 2010 fué cuando empezó a agarrar forma. Con este proyecto es que aprendí a programar PIC's, y lo hice en assembler
 
 ---
 
